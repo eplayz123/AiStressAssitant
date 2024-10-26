@@ -1,7 +1,4 @@
-# Stress Relieving Assitant Using Python
-With the help of Python & Visual Studio Code we have built an Assitant which Aids you in day-to-day online tasks making you feel relaxed and ultimately calming your neurological system (stress). This Assistant will be able to open apps, tell you meditation techniques, tell you jokes when you really need them & be able to help with breathing exercises. This Assitant will have many more features in the future and we look forward to have you using our Assitant. The source code of the assistant will be provided.
 
-Here is the code (Note that it may not work on all laptops consider installing the modules in the code):
 
 # Code
 
