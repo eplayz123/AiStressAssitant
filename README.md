@@ -3,12 +3,13 @@ With the help of Python & Visual Studio Code we have built an Assitant which Aid
 
 Here is the code (Note that it may not work on all laptops consider installing the modules in the code):
 
+# Code
+
 import pyttsx3
 import subprocess
 import random
 import time
 
-# Initialize the text-to-speech engine
 engine = pyttsx3.init()
 engine.setProperty('rate', 150)
 
