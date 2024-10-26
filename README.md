@@ -1,4 +1,4 @@
-
+# Note you may not use this code without giving proper credits to me (If you are just using the code as it is then you can without giving credits)
 
 # Code
 
